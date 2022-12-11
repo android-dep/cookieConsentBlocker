@@ -73,3 +73,6 @@
 
 ! https://www.accuweather.com
 *##.privacy-policy-banner
+
+! https://www.science.org
+*##.alert-donation--visible.bg-white.alert-donation
