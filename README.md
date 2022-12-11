@@ -1,4 +1,4 @@
-# ookieConsentBlocker
+# CookieConsentBlocker
 A list of cookie consent elements on web pages to block in uBlock
 
 This is a list of the different cookie consent elements found on various sites that prompt you to accept their cookie consent to collect your information
