@@ -1,0 +1,73 @@
+[Adblock Plus 2.0]
+! Title: Cookie Consent Blocker
+! Version: 1
+! Last modified: 11 December 2022
+! Homepage: https://github.com/android-dep/cookieConsentBlocker
+! License: https://www.gnu.org/licenses/gpl-3.0.en.html
+! Description: This filter blocks the annoying cookie consent on pages
+!-------------------------------------------------------------------------------
+
+! Third Party blocking ---------------------------------------------------------
+! https://bmcbiol.biomedcentral.com
+*##.cc-banner__content
+
+! https://link.springer.com
+*##.cc-banner
+
+! https://www.wellwisdom.com
+*##.CybotCookiebotDialogActive.CybotMultilevel.CybotEdge
+
+! https://www.tradingsetupsreview.com
+*##.rainmaker-cookie-consent-prompt.rainmaker-cookie-consent-inner
+*##.cookie-consent.rainmaker-cookie-consent
+
+! https://www.xing.com
+*##.cookie-consent-ConsentBanner-banner-f9242af0
+
+! https://www.robertwaltersgroup.com
+*##.initialized.cookiePolicy-info.cookiePolicy
+
+! https://www.influenster.com
+*###onetrust-consent-sdk
+
+! https://www.ft.com
+*##.o-cookie-message__inner
+
+! https://www.investing.com
+*##.type-1.allow-notifications-popup
+
+! https://bullishbears.com
+*###CybotCookiebotDialog
+
+! https://wall.alphacoders.com
+*###cookie_consent > span
+*###cookie_consent
+
+! http://www.globenewswire.com
+*##.cookie-disclosure
+
+! https://www.pharmaceutical-technology.com
+*###cookiepopup
+
+! https://samuraitradingacademy.com
+*##.avia-cookiemessage-bottom.avia-cookie-consent
+
+! https://www.politico.com
+*##.cookie-modal__title
+*##.cookie-modal__inner
+
+! https://www.cgdirector.com
+*###cookie-law-info-bar
+
+! https://www.appnexus.com
+*###cookiesdirective
+
+! https://www.amd.com
+*###cookieCompliance
+
+! https://www.dailymotion.com
+*##.CookiePopup__popup____KSqw
+
+! https://minergate.com
+*##.CookiesConsent_popup
+
