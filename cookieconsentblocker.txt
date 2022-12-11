@@ -71,3 +71,5 @@
 ! https://minergate.com
 *##.CookiesConsent_popup
 
+! https://www.accuweather.com
+*##.privacy-policy-banner
