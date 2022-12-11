@@ -76,3 +76,6 @@
 
 ! https://www.science.org
 *##.alert-donation--visible.bg-white.alert-donation
+
+! https://www.bonappetit.com
+*##.journey-template--cm_un-gated-growler-bar-BA-EPI.cm_un-gated-growler-bar-BA-EPI
