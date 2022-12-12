@@ -86,3 +86,6 @@
 
 ! https://www.zacks.com
 *##.disclosure-fixed-slab
+
+! https://spectrum.ieee.org
+*##.gdpr-cookie-wrapper
