@@ -98,3 +98,12 @@
 
 ! https://www.omgubuntu.co.uk
 *##.is-active.CookieWarning
+
+! https://ubuntu.com
+*##.p-modal
+
+! https://0123movies.to
+*##.open.modal
+
+! https://www.themoscowtimes.com
+*##.contribute-modal
