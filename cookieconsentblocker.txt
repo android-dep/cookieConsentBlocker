@@ -79,3 +79,6 @@
 
 ! https://www.bonappetit.com
 *##.journey-template--cm_un-gated-growler-bar-BA-EPI.cm_un-gated-growler-bar-BA-EPI
+
+! https://www.fool.co.uk
+*###ccc-notify
