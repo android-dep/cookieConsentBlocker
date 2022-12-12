@@ -89,3 +89,6 @@
 
 ! https://spectrum.ieee.org
 *##.gdpr-cookie-wrapper
+
+! https://www.cbc.ca
+*##.privacyNotification
