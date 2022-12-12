@@ -95,3 +95,6 @@
 
 ! https://www.globenewswire.com
 *##.cookie-consent-disclosure
+
+! https://www.omgubuntu.co.uk
+*##.is-active.CookieWarning
