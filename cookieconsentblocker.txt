@@ -92,3 +92,6 @@
 
 ! https://www.cbc.ca
 *##.privacyNotification
+
+! https://www.globenewswire.com
+*##.cookie-consent-disclosure
