@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Cookie Consent Blocker
-! Version: 3
+! Version: 4
+! Expires: 1 days
 ! Last modified: 12 December 2022
 ! Homepage: https://raw.githubusercontent.com/android-dep/cookieConsentBlocker/main/cookieconsentblocker.txt
 ! License: https://www.gnu.org/licenses/gpl-3.0.en.html
