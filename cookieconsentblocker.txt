@@ -231,4 +231,9 @@
 ! https://trustarc.com
 *###truste-consent-content
 
+*##.truste-sf-banner
+*##.truste_box_overlay
+*##.truste_cm_outerdiv:not(body):not(html)
+*##.truste_overlay:not(body):not(html)
+
 
