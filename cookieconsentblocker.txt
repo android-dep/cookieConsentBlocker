@@ -228,6 +228,7 @@
 !f-secure.com
 *##.fs-consent
 
-
+! https://trustarc.com
+*###truste-consent-content
 
 
