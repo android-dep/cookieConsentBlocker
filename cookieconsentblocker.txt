@@ -229,6 +229,6 @@
 *##.fs-consent
 
 ! https://trustarc.com
-###truste-consent-content
+*###truste-consent-content
 
 
