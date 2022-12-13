@@ -236,4 +236,5 @@
 *##.truste_cm_outerdiv:not(body):not(html)
 *##.truste_overlay:not(body):not(html)
 
+*##.theme-light.cookie-notification.wrapper
 
